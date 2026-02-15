@@ -317,6 +317,7 @@
     "api": "https://www.moduzy.com/api.php/provide/vod",
     "logo": "",
     "nsfw": false,
+    "status": true,
     "type": 0,
     "extra": {
       "gfw": false
@@ -328,6 +329,7 @@
     "api": "https://suoniapi.com/api.php/provide/vod",
     "logo": "",
     "nsfw": false,
+    "status": true,
     "type": 0,
     "extra": {
       "gfw": false
@@ -339,6 +341,7 @@
     "api": "https://hhzyapi.com/api.php/provide/vod",
     "logo": "",
     "nsfw": false,
+    "status": true,
     "type": 0,
     "extra": {
       "gfw": false
